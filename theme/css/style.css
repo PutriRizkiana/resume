@@ -1448,6 +1448,7 @@ label {
 	background-size: 400% 400%;
 	animation: gradient 40s ease infinite;
 	height: 100%;
+  width: 100%;
 }
 @keyframes gradient {
 	0% {
